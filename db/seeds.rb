@@ -18,7 +18,7 @@ pokemonArray.each do |pokemonHash|
         poke_type: pokemon['types'][0]['type']['name'],
         weight: pokemon['weight'],
         front_image: pokemon['sprites']['front_default'],
-        back_image: pokemon['sprites']['front_default'],
+        back_image: pokemon['sprites']['back_default'],
     }
     Pokemon.find_or_create_by(pokemonHash)
     system('clear')

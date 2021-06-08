@@ -1,7 +1,7 @@
 # Pokemon Server Backend
 
 
-This is a basic backedn used to showcase lifecycle methods in react.
+This is a basic backend used to showcase lifecycle methods in react.
 
 If you are following along and want to install this backend, feel free to fork and clone this repo. 
 
