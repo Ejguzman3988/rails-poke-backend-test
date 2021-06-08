@@ -1,24 +1,16 @@
-# README
+# Pokemon Server Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+This is a basic backedn used to showcase lifecycle methods in react.
 
-* Ruby version
+If you are following along and want to install this backend, feel free to fork and clone this repo. 
 
-* System dependencies
+### Usage
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+After installing this repo run 
+    $ bundle install
+    $ rails db:migrate 
+    $ rails db:seed
+This should set up your database and allow you to start your server on port 3001.
+    $ rails server
+Then visit your port of 3001 
