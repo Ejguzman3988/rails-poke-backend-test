@@ -6,7 +6,7 @@ Link to frontend repository: https://github.com/Ejguzman3988/GSH-react-pokemons
 
 ## Instructions
 
-Clone repo
+Clone repo and run the following commands in this projects directory
 
     $ bundle install
     $ rails db:migrate
@@ -16,7 +16,9 @@ This should set up your database and allow you to start your server on port 3001
 
     $ rails server
 
-**If you run into any issues slack me or Jenn Pazos**
+Once you have started your server validate that you are receiving data by visiting.
+
+> http://localhost:3001
 
 ---
 
