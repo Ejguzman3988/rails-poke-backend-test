@@ -16,6 +16,8 @@ This should set up your database and allow you to start your server on port 3001
 
     $ rails server
 
+**If you run into any issues slack me or Jenn Pazos**
+
 ---
 
 # Previous React Lecture
